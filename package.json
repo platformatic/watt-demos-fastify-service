@@ -1,7 +1,7 @@
 {
   "name": "fastify-service",
   "dependencies": {
-    "@platformatic/node": "^2.15.0",
+    "@platformatic/node": "^2.16.0-alpha.1",
     "@fastify/swagger": "^9.2.0"
   }
 }
